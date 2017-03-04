@@ -1,0 +1,17 @@
+Package: grub-themes-stylishdark
+Version: 0.1-1
+Architecture: all
+Maintainer: Vince Liuice <vinceliuice@hotmail.com>
+Installed-Size: 1300
+Depends:
+Homepage: http://vinceliuice.deviantart.com/
+Priority: extra
+Section: universe
+Filename: pool/main/g/grub-themes-stylishdark/grub-themes-stylishdark_0.1-1_all.deb
+Size: 1184018
+SHA256: 203e051a96616e28bf16ce4aff7b1711a7d29598f9e1eda8a95fe5dcf4ea16e0
+SHA1: 701e9f0ec715bca398c30ed219dcdeddecaa3e1b
+MD5sum: c4368f98d534f02ae87ce39bfccb9c6d
+Description: stylishdark theme for grub2
+ Beautiful grub2 theme made by Vince with some midified pics.
+
