@@ -3,4 +3,4 @@ Component: main
 Origin: ertix
 Label: Ertix Linux
 Architecture: amd64
-Description: Debian x64 packages hosted on riespandi github repository
+Description: Deb x64 packages hosted on riespandi github repository

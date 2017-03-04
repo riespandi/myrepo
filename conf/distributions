@@ -1,7 +1,7 @@
 Origin: ertix
 Label: Ertix Linux
 Suite: stable
-Codename: jessie
+Codename: zesty
 Architectures: amd64
 Components: main
-Description: Debian x64 packages hosted on riespandi github repository
+Description: Deb x64 packages hosted on riespandi github repository

@@ -1,20 +1,20 @@
 Origin: ertix
 Label: Ertix Linux
 Suite: stable
-Codename: jessie
-Date: Sat, 04 Mar 2017 17:38:50 UTC
+Codename: zesty
+Date: Sat, 04 Mar 2017 18:10:48 UTC
 Architectures: amd64
 Components: main
-Description: Debian x64 packages hosted on riespandi github repository
+Description: Deb x64 packages hosted on riespandi github repository
 MD5Sum:
  65b1601a7d44667c0577060cab70150b 589 main/binary-amd64/Packages
  06850b6e1b1a892844a575063c7cd8be 401 main/binary-amd64/Packages.gz
- f56d075122f8bea4366b9fb81e95723b 156 main/binary-amd64/Release
+ 716c5b830fd0555fa48863bd43ebfa36 153 main/binary-amd64/Release
 SHA1:
  ed9ef99e0b537ab88d27126d07697f9d4d6eb86d 589 main/binary-amd64/Packages
  7a39890fb30b2c7d45ae9d67bbef981c550cc4fb 401 main/binary-amd64/Packages.gz
- ac514d92c2bddbe4f294c9815050f13ca742d380 156 main/binary-amd64/Release
+ 5397bbed321936409f10e6f383a366779c6a40bd 153 main/binary-amd64/Release
 SHA256:
  c620d6da846a514d72966be25e1a692aedb545d9b6fae762889fd9502b7545f4 589 main/binary-amd64/Packages
  9d43a15cf4adabf7ac1d98b84b7e39e475f081643ea5ae9d2b5a281992c33c50 401 main/binary-amd64/Packages.gz
- 6ab6ea0bc467d805aea0a3e9733d49745ed80a660acfd2a6512210ce49a03f7a 156 main/binary-amd64/Release
+ 5a54015c86fbaefc47118fc20349699e91273cdb527dc1b401e521decf1f26f0 153 main/binary-amd64/Release
