@@ -5,7 +5,7 @@ Origin: repo.freeweb.id
 Label: Ertix Linux
 Suite: stable
 Codename: zesty
-Date: Sat, 04 Mar 2017 20:35:26 UTC
+Date: Sat, 04 Mar 2017 20:41:43 UTC
 Architectures: amd64
 Components: main
 Description: Deb x64 packages hosted on riespandi github repository
@@ -23,11 +23,11 @@ SHA256:
  0b20a71dbe5ace28ac44012b057897045bb85959cfee814f8557fa9655e9ae44 163 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCAAGBQJYuyUSAAoJEKa4M7M7159f4BoH/13NzkbDOTewsj3tSkwlxRmd
-eWXRdOuXEIisUXQ2h4pvaSQqdbL4cBLV09KqwBJDabzC1ocshM0/CS/6mH6yabE7
-5uEKBSDe6dW3oDyApqTHOXfDblsMwN/7htyVfKgzKDD8wixCzPzHkfg1lPTEuXub
-dBpEsFXylwGXDF9+5s0c/VifKm7j5Em0H0eJTb8xUiauf8/SfKuGisT4t9MF9RaN
-5CB/feS9NcizHRlEntWHTvxc/EbOJtWwnQ8WJpbzWZaxJRpCrRqxVHXEVJSZHQzY
-xeZJ26BFZT4dw9hlyfkWBTSKda441MISCMHwBlfm8hOju+EcEZ+luoDpwuhfYs8=
-=dcmc
+iQEcBAEBCAAGBQJYuyaHAAoJEKa4M7M7159fUwIH/03ErKuYbp7XB1vhLziU7yAl
+eAKbYIascZ/H+4cWy3GYf6D4HmkgqVpI10baUQkYy7DTwXcniLJlNVN89rDiQbiI
+NST6h7qw7Ue+buZDe0ZxyE/JtJG+K2+KSzoHS0TBMa2fFOUvHre4f+6bLscWzsev
+zKcKx6Rc2x6VYmkk7DJxoAa8lAhfrdeM4e80j90kl0wMmiun/xUnsozOIBDBdg9X
+9isqgwPAX7KIFNO6JxXGc5VYNQzTTC57VCXYzel/XdmT7WXjPjWRXs8XZqOvQAVU
+EVuBMOZFf9XAcEd0FG90uswB5pmYl3Ss7QaUVpz1cVV8IVDUULFiGpXM03I3x1w=
+=xtpW
 -----END PGP SIGNATURE-----
