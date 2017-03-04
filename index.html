@@ -120,8 +120,8 @@ $ sudo echo "deb http://repo.freeweb.id/debian &lt;version&gt; main" > /etc/apt/
     <h3>Add our public key then update the packages list:</h3>
     <div class="highlight highlight-bash">
 <pre>
-$ sudo wget -qO - http://repo.freeweb.id/pubkey.asc
-$ sudo apt-get update
+$ wget -qO - http://repo.freeweb.id/pubkey.asc | sudo apt-key
+$ sudo apt update
 </pre>
   </div>
 
