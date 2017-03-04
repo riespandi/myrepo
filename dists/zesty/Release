@@ -1,0 +1,20 @@
+Origin: repo.freeweb.id
+Label: Ertix Linux
+Suite: stable
+Codename: zesty
+Date: Sat, 04 Mar 2017 19:24:17 UTC
+Architectures: amd64
+Components: main
+Description: Deb x64 packages hosted on riespandi github repository
+MD5Sum:
+ 5f076a7bb00d64b50d26065137cf25e5 1369 main/binary-amd64/Packages
+ 43e3e5b10c946250995915ac5b1cfceb 767 main/binary-amd64/Packages.gz
+ 9f1bdbe83fa92a8e0fa622a3f292eeb2 163 main/binary-amd64/Release
+SHA1:
+ e88a4e74c7a43c1461ac1c3205c2926b654e80f1 1369 main/binary-amd64/Packages
+ bb44c25d8546ce68ae0f1c8056f60fb89eb0471e 767 main/binary-amd64/Packages.gz
+ d14deacf42dfd5a5d5bd59c95600458100c56af6 163 main/binary-amd64/Release
+SHA256:
+ cf2804356ee5c94c7284aeb3c64f32dd5affe636334835a2fd93d63c8784d6f2 1369 main/binary-amd64/Packages
+ 18969a5235a7764cebbdbd837b14b02827bcf31ffea5662b835eda1f33e847d1 767 main/binary-amd64/Packages.gz
+ 0b20a71dbe5ace28ac44012b057897045bb85959cfee814f8557fa9655e9ae44 163 main/binary-amd64/Release

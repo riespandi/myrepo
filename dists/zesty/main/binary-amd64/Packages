@@ -1,0 +1,36 @@
+Package: Stacer
+Version: 1.0.4-1
+Architecture: amd64
+Depends: git, gconf2, gconf-service, gvfs-bin, libc6, libcap2, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libnss3, libxtst6, python, xdg-utils
+Recommends: lsb-release
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0
+Installed-Size: 129232
+Maintainer: Oguzhan Inan <oguzhan3488@gmail.com>
+Homepage: https://github.com/oguzhaninan/Stacer
+Priority: optional
+Section: utils
+Filename: pool/main/S/Stacer/Stacer_1.0.4-1_amd64.deb
+Size: 36313496
+SHA256: 060f3e21ec99f2ec53ab2456d0d724e5b9afcf7ed4f34cb84faa08a8ce3e50ce
+SHA1: bf254e528078a616e95ef794d06124a33799e060
+MD5sum: bae91742c3ae48e332951eb2dadbc66e
+Description: Ubuntu System Optimizer and Monitoring
+ Ubuntu System Optimizer and Monitoring
+
+Package: grub-themes-stylishdark
+Version: 0.1-1
+Architecture: all
+Maintainer: Vince Liuice <vinceliuice@hotmail.com>
+Installed-Size: 1300
+Depends:
+Homepage: http://vinceliuice.deviantart.com/
+Priority: extra
+Section: universe
+Filename: pool/main/g/grub-themes-stylishdark/grub-themes-stylishdark_0.1-1_all.deb
+Size: 1184018
+SHA256: 203e051a96616e28bf16ce4aff7b1711a7d29598f9e1eda8a95fe5dcf4ea16e0
+SHA1: 701e9f0ec715bca398c30ed219dcdeddecaa3e1b
+MD5sum: c4368f98d534f02ae87ce39bfccb9c6d
+Description: stylishdark theme for grub2
+ Beautiful grub2 theme made by Vince with some midified pics.
+
