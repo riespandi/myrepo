@@ -114,14 +114,14 @@ $ sudo echo "deb [arch=amd64] http://repo.freeweb.id/ubuntu &lt;version&gt; main
     <h3>Debian:</h3>
     <div class="highlight highlight-bash">
 <pre>
-$ sudo echo "deb [arch=amd64] http://repo.freeweb.id/debian &lt;version&gt; main" > /etc/apt/sources.list.d/freeweb.list
+# echo "deb [arch=amd64] http://repo.freeweb.id/debian &lt;version&gt; main" > /etc/apt/sources.list.d/freeweb.list
 </pre>
   </div>
     <h3>Add our public key then update the packages list:</h3>
     <div class="highlight highlight-bash">
 <pre>
-$ wget -qO- http://repo.freeweb.id/pubkey.asc | sudo apt-key add
-$ sudo apt update
+# wget -qO- http://repo.freeweb.id/pubkey.asc | sudo apt-key add
+# apt update
 </pre>
   </div>
 
