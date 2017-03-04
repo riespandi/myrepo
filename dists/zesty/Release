@@ -1,20 +1,20 @@
-Origin: ertix
+Origin: repo.freeweb.id
 Label: Ertix Linux
 Suite: stable
 Codename: zesty
-Date: Sat, 04 Mar 2017 18:53:17 UTC
+Date: Sat, 04 Mar 2017 19:18:03 UTC
 Architectures: amd64
 Components: main
 Description: Deb x64 packages hosted on riespandi github repository
 MD5Sum:
- 9a26c85423947168d741212d9a47438c 1369 main/binary-amd64/Packages
- fd7b40d3931123fa47c0e2830cd4e45b 769 main/binary-amd64/Packages.gz
- 716c5b830fd0555fa48863bd43ebfa36 153 main/binary-amd64/Release
+ 6b35407f6e996e98ab9ec66ffc988c9d 1369 main/binary-amd64/Packages
+ 9d32fcaa2de6f90c8bb01b6634a88f74 771 main/binary-amd64/Packages.gz
+ 9f1bdbe83fa92a8e0fa622a3f292eeb2 163 main/binary-amd64/Release
 SHA1:
- 3b7340824f13d30d0ba156091cd66d6254b7a715 1369 main/binary-amd64/Packages
- 5f27a6435279b55dd8d573e8882cbbf1b464da56 769 main/binary-amd64/Packages.gz
- 5397bbed321936409f10e6f383a366779c6a40bd 153 main/binary-amd64/Release
+ 6468944f80c813bdb682957daa65cedfffd170d0 1369 main/binary-amd64/Packages
+ 13f21114e28a8b2fa7c6f961316c5a1c0afbbf5f 771 main/binary-amd64/Packages.gz
+ d14deacf42dfd5a5d5bd59c95600458100c56af6 163 main/binary-amd64/Release
 SHA256:
- ec148cb95500a2c15e3484ce71df2d0215e8ade7f5d9cda443619dce301d0cf5 1369 main/binary-amd64/Packages
- afffe84dca2b35f94f6104c84115dbfdcba2aabb8e120cc51fb526defdb260bd 769 main/binary-amd64/Packages.gz
- 5a54015c86fbaefc47118fc20349699e91273cdb527dc1b401e521decf1f26f0 153 main/binary-amd64/Release
+ 390e7b99498c82d7af0d374ca41718d32a91f0c342b1fb507f913537ff4ab9b1 1369 main/binary-amd64/Packages
+ 6e6e94ff6dfd6c938778f883707a8e1d5af05e07cddf7a4c8ac6591428a55b3a 771 main/binary-amd64/Packages.gz
+ 0b20a71dbe5ace28ac44012b057897045bb85959cfee814f8557fa9655e9ae44 163 main/binary-amd64/Release
