@@ -1,3 +1,22 @@
+Package: Stacer
+Version: 1.0.4-1
+Architecture: amd64
+Depends: git, gconf2, gconf-service, gvfs-bin, libc6, libcap2, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libnss3, libxtst6, python, xdg-utils
+Recommends: lsb-release
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0
+Installed-Size: 129232
+Maintainer: Oguzhan Inan <oguzhan3488@gmail.com>
+Homepage: https://github.com/oguzhaninan/Stacer
+Priority: optional
+Section: utils
+Filename: pool/main/S/Stacer/Stacer_1.0.4-1_amd64.deb
+Size: 36307872
+SHA256: d4b86bea55ed1c1419435e520c3f4831f57f9b069fe903ac9a1f5efa587cecff
+SHA1: 231cd73ead0d8110754f5ee740fef839929947ae
+MD5sum: f4833464d00dd36e9595a93bdc4e4808
+Description: Ubuntu System Optimizer and Monitoring
+ Ubuntu System Optimizer and Monitoring
+
 Package: grub-themes-stylishdark
 Version: 0.1-1
 Architecture: all
