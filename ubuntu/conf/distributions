@@ -1,8 +1,8 @@
 Origin: repo.freeweb.id
 Label: Ertix Linux
 Suite: stable
-Codename: zesty
+Codename: xenial
 Architectures: amd64
 Components: main
-Description: Deb x64 packages hosted on riespandi github repository
+Description: DEB x64 packages hosted on riespandi github repository
 SignWith: 3BD79F5F

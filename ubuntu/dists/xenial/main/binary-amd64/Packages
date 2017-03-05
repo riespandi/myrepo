@@ -1,0 +1,136 @@
+Package: deadbeef-static
+Version: 0.7.2-2
+Installed-Size: 18634
+Architecture: amd64
+Maintainer: Alexey Yakovenko <waker@users.sf.net>
+Depends: libasound2 (>> 1.0.16), libc6 (>= 2.7-1), libcairo2 (>= 1.2.4), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.12.0), libpango1.0-0 (>= 1.20.3), libx11-6
+Recommends: libpulse0, libdbus-1-3
+Homepage: http://deadbeef.sourceforge.net/
+Priority: optional
+Section: sound
+Filename: pool/main/d/deadbeef-static/deadbeef-static_0.7.2-2_amd64.deb
+Size: 8562278
+SHA256: 33f8ddbfea090d7eebbb39a5e232ac7b8e90b7c4e4de071e608928bc5f076ecb
+SHA1: 5a21dc13d07c5e006f4b6a58fb36143f86665c81
+MD5sum: 0a77999dfbd70b15cb8b19b31d4e487c
+Description: The Ultimate Music Player
+ DeaDBeeF (as in 0xDEADBEEF) is a cross-platform audio player
+ .
+ Features:
+ .
+  * mp3, ogg vorbis, flac, ape, wv, wav
+  * ID3v1, ID3v2.2, ID3v2.3, ID3v2.4, APEv2, xing/info tags support
+  * character set detection for non-unicode ID3 tags - supports cp1251
+    and iso8859-1
+  * unicode tags are fully supported as well (both utf8 and ucs2)
+  * cuesheet support for mp3, ogg, flac, ape
+  * autodetection of utf8/cp1251/iso8859-1 charsets in cuesheets
+  * sid and some popular chiptune formats like nsf
+  * tracker modules like mod, s3m, it, xm, etc
+  * HVSC song length database support for sid
+  * gtk2 interface with custom highly speed/memory optimized widgets
+  * no GNOME or KDE dependencies - just gtk2 and several small libraries
+  * minimize to tray, with scrollwheel volume control
+  * drag and drop, both inside of playlist, and from filemanagers and such
+  * control playback from command line (allows global hotkeys using xbindkeys)
+  * seeking works in all supported formats
+  * plugin support; ships with several standard plugins, such as global hotkeys
+    and last.fm scrobbler; sdk is included
+  * duration calculation is as precise as possible for vbr mp3
+    files (with and without xing/info tags)
+
+Package: grub-themes-stylishdark
+Version: 0.1-1
+Architecture: all
+Maintainer: Vince Liuice <vinceliuice@hotmail.com>
+Installed-Size: 1300
+Depends:
+Homepage: http://vinceliuice.deviantart.com/
+Priority: extra
+Section: universe
+Filename: pool/main/g/grub-themes-stylishdark/grub-themes-stylishdark_0.1-1_all.deb
+Size: 1186966
+SHA256: 243fe64a0ab2b69c35cf55977532e98af420dd472c1de87f543fbb40988a75aa
+SHA1: f3fea7bc2242cfb525b9f42b087887efd29190da
+MD5sum: c1bbc43d1dff7f4ed2c7d37400668c79
+Description: stylishdark theme for grub2
+ Beautiful grub2 theme made by Vince with some midified pics.
+
+Package: notepadqq
+Version: 1.0.1-0~xenial1
+Architecture: amd64
+Maintainer: Daniele Di Sarli <danieleds0@gmail.com>
+Installed-Size: 1189
+Depends: notepadqq-common (= 1.0.1-0~xenial1), coreutils (>= 8.20), libqt5svg5 (>= 5.2.1), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.5.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5webkit5 (>= 5.2.0), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 5.2)
+Homepage: http://notepadqq.altervista.org
+Priority: optional
+Section: editors
+Filename: pool/main/n/notepadqq/notepadqq_1.0.1-0~xenial1_amd64.deb
+Size: 328438
+SHA256: 651bd9559c990dc14ca317c077f390eccbcb8d36937412f5e2297549db7703b1
+SHA1: 157e0b2ccdeb6c6669d20e9b780c74a9f6a42400
+MD5sum: ceeadc31e46aff39c5383e173e4c32f4
+Description: Notepad++-like editor for Linux
+ Text editor with support for multiple programming
+ languages, multiple encodings and plugin support.
+
+Package: notepadqq-common
+Source: notepadqq
+Version: 1.0.1-0~xenial1
+Architecture: all
+Maintainer: Daniele Di Sarli <danieleds0@gmail.com>
+Installed-Size: 4390
+Recommends: notepadqq
+Breaks: notepadqq (<= 0.39.0)
+Replaces: notepadqq (<= 0.39.0)
+Homepage: http://notepadqq.altervista.org
+Priority: optional
+Section: editors
+Filename: pool/main/n/notepadqq/notepadqq-common_1.0.1-0~xenial1_all.deb
+Size: 732930
+SHA256: b7a3c2559f356da5b80b0f25070339d84256d071180170431045e6df1782fdfa
+SHA1: 4bdecb884ad3058a7e86b17fdb4f007506ac5c37
+MD5sum: 81c76718e854470565b350f84b53360f
+Description: Notepad++-like editor for Linux - common files
+ Text editor with support for multiple programming
+ languages, multiple encodings and plugin support.
+ .
+ This package will install the common files for Notepadqq.
+
+Package: notepadqq-gtk
+Source: notepadqq
+Version: 1.0.1-0~xenial1
+Architecture: all
+Maintainer: Daniele Di Sarli <danieleds0@gmail.com>
+Installed-Size: 11
+Depends: notepadqq (>= 1.0.1-0~xenial1), notepadqq (<< 1.0.1-0~xenial1.1~), notepadqq-common (= 1.0.1-0~xenial1)
+Homepage: http://notepadqq.altervista.org
+Priority: optional
+Section: editors
+Filename: pool/main/n/notepadqq/notepadqq-gtk_1.0.1-0~xenial1_all.deb
+Size: 3264
+SHA256: 7b92e353f85dc5a0068afbd6872d90921fb579794801e5fecfba483073386250
+SHA1: 50b118f7eabcaf4923cce78fc59fa081d62d682b
+MD5sum: 5d325911b4627d491c5b0aa24a0bbd00
+Description: Notepad++-like editor for Linux - GTK style
+ Text editor with support for multiple programming
+ languages, multiple encodings and plugin support.
+ .
+ This package enables GTK style on startup. The application
+ itself is still compiled against Qt5.
+
+Package: ubuntu-cleaner
+Version: 1.0.4-1
+Architecture: all
+Maintainer: Gerard Puig <gerardpuigdev@gmail.com>
+Installed-Size: 233
+Depends: python-defer, python-lxml, python:any (<< 2.8), python:any (>= 2.7.5-5~), python-dbus, python-aptdaemon, python-aptdaemon.gtk3widgets
+Priority: optional
+Section: python
+Filename: pool/main/u/ubuntu-cleaner/ubuntu-cleaner_1.0.4-1_all.deb
+Size: 63958
+SHA256: 7f027a500cd83eced4d9ad5cce708280cc936f678f2ee852579ac083785bfbcd
+SHA1: e3b21290a5886a2f705a2658310c4aac500276c7
+MD5sum: e09fbe72325bd1838617ad1f11c36563
+Description: Keep your ubuntu system clean has never been so easy!
+

@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: repo.freeweb.id
+Label: Ertix Linux
+Suite: stable
+Codename: xenial
+Date: Sun, 05 Mar 2017 10:24:23 UTC
+Architectures: amd64
+Components: main
+Description: DEB x64 packages hosted on riespandi github repository
+MD5Sum:
+ 199ddf571206bde377b698c54a41e154 5725 main/binary-amd64/Packages
+ c93f906407038986b3ffc80e71266d0e 2453 main/binary-amd64/Packages.gz
+ b1b4324b4ef3c8791b9bb70a40cb7059 163 main/binary-amd64/Release
+SHA1:
+ 1bf778c2701a16fd49aed2ca627640147cc21800 5725 main/binary-amd64/Packages
+ 4e17653c00efb3a4bf18d66f3c3edb7034facbb2 2453 main/binary-amd64/Packages.gz
+ 5a63ab1671f4caa76479deb7b0d210a836ec3d45 163 main/binary-amd64/Release
+SHA256:
+ 0f5fed80481a3372d8c1ce47147b7c5d443fd3dd9e44306be8164e5f2633129e 5725 main/binary-amd64/Packages
+ eac5c0b86e12d2277c6af29718cb7f819e17cda0c77b221e693e144501cd9faa 2453 main/binary-amd64/Packages.gz
+ e628b8d9fc559ebb6dcd2d1c7f272c1e65fb4556cc9805d2c26295ad69f13b86 163 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJYu+ddAAoJEKa4M7M7159fnPYIAIYJyjSgLS9gahxlE3HJXr0L
+yd54hZqYtv9xOu7gmtcxRpnX7u2KOPbWVTggbHK51+j8FtllDir5QASfcSdD2H+9
+svkVJbbYoX+dc2J/V+Sy445w31JjfnMxRnKj5Jw+eT1S7W1QMqzohdCn0f3HbM0n
+VrW5utV4im9K+wLeUR/A29Eve1DHiZTrnxRId31Yyj0ldlaz/JPJKK5RYFIZx9qh
+v8JqMkaYyWa9+s25BnGmv3WfZhECsvFMsGXtFj9mG4vaJRhsGFxVaim4Ari2YubQ
+nlwxd+afzv7AfoZnXzDg9qO1SIS2fffbfSOPhRCRE6ZUVL4RsvOYWbkJ9+A7ggE=
+=sP/U
+-----END PGP SIGNATURE-----
